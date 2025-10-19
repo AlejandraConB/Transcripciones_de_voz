@@ -12,9 +12,9 @@ Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con las bibli
 
 ## 📦 Requisitos:
 
-- Tener instalado la versión más actualizada de Python.
 - Utilizar Google Colab.
-</br>
+- Importar la libreria Pandas.
+- Importar la librereria Librosa.
 
 💙 <strong>Alejandra Contreras</strong></br></br>
 <a href="https://www.linkedin.com/in/alejandraconb-dev/" target="_blank">
