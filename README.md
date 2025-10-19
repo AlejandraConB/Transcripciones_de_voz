@@ -1,4 +1,4 @@
-# Transcripciones_de_voz
+# 📌 Transcripciones_de_voz
 Transcripción de voz utilizando Python con Lenguaje Natural (PLN) con las bibliotecas Pandas y Librosa, con la creación de un espectograma.
 
 ## 🖥️ Tecnologías Utilizadas:
